@@ -22,8 +22,8 @@
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-13" value="&lt;b&gt;TRAM Bootstrap&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="135.51" y="112.36" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fPzklJ0g-8JDIkOd0WQr-16" value="&lt;h3&gt;&lt;b&gt;①Data augmentation&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95.51" y="30" width="180" height="60" as="geometry" />
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-16" value="&lt;h3&gt;&lt;b&gt;① Data augmentation&lt;/b&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90.51" y="30" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
