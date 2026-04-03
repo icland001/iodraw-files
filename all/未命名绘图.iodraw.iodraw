@@ -22,6 +22,9 @@
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-13" value="&lt;b&gt;TRAM Bootstrap&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="135.51" y="112.36" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="48" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
