@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="580" as="targetPoint" />
+            <mxPoint x="260" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-22" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;gradientColor=none;fillColor=none;" vertex="1" parent="1">
@@ -58,6 +58,9 @@
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-38" value="&lt;b style=&quot;text-wrap-mode: nowrap;&quot;&gt;Original text&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="129.5" y="163.57" width="110.5" height="26.43" as="geometry" />
+        </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
