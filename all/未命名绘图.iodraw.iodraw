@@ -17,7 +17,7 @@
           <mxGeometry x="48.02" y="91.43" width="54.98" height="72.14" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-12" value="" style="shape=mxgraph.arrows.arrow_down;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="173.6" y="200" width="22.3" height="67.64" as="geometry" />
+          <mxGeometry x="171.85" y="192.36" width="22.3" height="67.64" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-13" value="&lt;b&gt;TRAM Bootstrap&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="15.509999999999987" y="70" width="120" height="30" as="geometry" />
@@ -63,7 +63,7 @@
           <mxGeometry x="60" y="560" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-48" value="" style="shape=mxgraph.arrows.arrow_down;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="630" width="195" height="130" as="geometry" />
+          <mxGeometry x="77.5" y="630" width="162.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
