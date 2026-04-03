@@ -40,8 +40,8 @@
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-6" target="fPzklJ0g-8JDIkOd0WQr-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fPzklJ0g-8JDIkOd0WQr-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
