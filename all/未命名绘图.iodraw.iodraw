@@ -84,7 +84,7 @@
           <mxGeometry x="640" y="91.43" width="54.98" height="72.14" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-62" value="TRAM Bootstrap&amp;nbsp; &amp;nbsp;augmented dataset" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="61.43" width="220" height="30" as="geometry" />
+          <mxGeometry x="520" y="70" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
