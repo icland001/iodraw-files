@@ -62,11 +62,11 @@
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-46" value="&lt;b&gt;Sentence-BERT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="60" y="560" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fPzklJ0g-8JDIkOd0WQr-48" value="" style="shape=mxgraph.arrows.arrow_down;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="77.5" y="630" width="162.5" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-49" value="" style="shape=mxgraph.arrows.arrow_down;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="181.85" y="360" width="68.15" height="67.64" as="geometry" />
+          <mxGeometry x="140.93" y="630" width="68.15" height="67.64" as="geometry" />
+        </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-50" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;gradientColor=none;fillColor=none;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="148" y="430" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
