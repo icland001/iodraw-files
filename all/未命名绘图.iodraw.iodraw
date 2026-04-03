@@ -20,7 +20,7 @@
           <mxGeometry x="176.85" y="222.36" width="22.3" height="67.64" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-13" value="&lt;b&gt;TRAM Bootstrap&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135.51" y="112.36" width="120" height="30" as="geometry" />
+          <mxGeometry x="35.02999999999999" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-16" value="&lt;h3&gt;① Data augmentation&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100.51" y="30" width="170" height="60" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-23" value="&lt;b&gt;提示工程&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="300" width="14.49" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-6" target="fPzklJ0g-8JDIkOd0WQr-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
