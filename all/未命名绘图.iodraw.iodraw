@@ -8,7 +8,7 @@
           <mxGeometry x="160" y="320" width="56" height="56" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-4" value="&lt;b&gt;GPT-5.4-mini&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="138" y="290" width="100" height="30" as="geometry" />
+          <mxGeometry x="135.51" y="376" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelBackgroundColor=#66FFFF;labelBorderColor=#66FFFF;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="80" width="320" height="725" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-13" value="&lt;b&gt;TRAM Bootstrap&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="118" y="112.36" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.636;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-1" target="fPzklJ0g-8JDIkOd0WQr-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
