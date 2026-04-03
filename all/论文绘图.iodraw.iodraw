@@ -101,6 +101,9 @@
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-74" value="Meta-Llama-3-8B-Instruct" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="360" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-75" target="fPzklJ0g-8JDIkOd0WQr-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-75" value="LORA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="310" width="60" height="30" as="geometry" />
         </mxCell>
