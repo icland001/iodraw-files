@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="299.9999999999998" y="550" as="targetPoint" />
+            <mxPoint x="300" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-22" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;gradientColor=none;fillColor=none;" vertex="1" parent="1">
@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fPzklJ0g-8JDIkOd0WQr-35">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100.00000000000023" y="560" as="targetPoint" />
+            <mxPoint x="90" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-35" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;gradientColor=none;fillColor=none;" vertex="1" parent="1">
