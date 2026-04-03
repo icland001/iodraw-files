@@ -40,11 +40,11 @@
             <mxPoint x="350" y="742.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fPzklJ0g-8JDIkOd0WQr-28" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="476.32" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fPzklJ0g-8JDIkOd0WQr-32" value="&lt;b&gt;Original text&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140.51" y="192.36" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fPzklJ0g-8JDIkOd0WQr-35" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;textShadow=0;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153" y="160" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
